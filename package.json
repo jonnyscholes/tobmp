@@ -1,0 +1,12 @@
+{
+  "name": "to-bmp",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "canvas": "*",
+    "pixelspitter": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
